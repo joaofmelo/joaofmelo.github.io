@@ -6,7 +6,7 @@ author_profile: true
 
 # A Primer on Quantum Mechanics (WORK IN PROGRESS)
 
-Put here abstract
+[Download pdf](https://joaofmelo.github.io/files/A_Primer_on_Quantum_Mechanics.pdf)
 
 # Advanced Quantum Field Theory
 
