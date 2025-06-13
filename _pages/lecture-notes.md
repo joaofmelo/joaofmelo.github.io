@@ -12,21 +12,23 @@ Introductory course on quantum mechanics, starting with the Stern-Gerlach experi
 
 <details open>
 <summary>Contents</summary>
-1. The puzzles with atomic theory
-2. Are electrons particles or waves?
-3. The Stern-Gerlach experiment
-4. The physics of Hilbert spaces
-5. Quantum mechanics for continuous variables
-6. The equations of motion
-7. The ``free'' particle
-8. Square potentials
-9. The harmonic oscillator
-10. Spherical symmetry
-11. Solving the radial equation
-12. Spin
-13. Spontaneous emission of radiation
-14. The failure of hidden variables
-15. The dynamics of measurements
+<ol type="1">
+<li>The puzzles with atomic theory</li>
+<li>Are electrons particles or waves?</li>
+<li>The Stern-Gerlach experiment</li>
+<li>The physics of Hilbert spaces</li>
+<li>Quantum mechanics for continuous variables</li>
+<li>The equations of motion</li>
+<li>The ''free'' particle</li>
+<li>Square potentials</li>
+<li>The harmonic oscillator</li>
+<li>Spherical symmetry</li>
+<li>Solving the radial equation</li>
+<li>Spin</li>
+<li>Spontaneous emission of radiation</li>
+<li>The failure of hidden variables</li>
+<li>The dynamics of measurements</li>
+</ol>
 </details>
 
 ## Advanced Quantum Field Theory
