@@ -11,11 +11,11 @@ main:
   - title: "Lecture Notes"
     url: /lecture-notes/
     
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Outreach"
-    url: /outreach/
+ # - title: "Outreach"
+ #   url: /outreach/
 
  # - title: "Talks"
  #   url: /talks/    
@@ -26,11 +26,11 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
