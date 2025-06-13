@@ -10,7 +10,7 @@ Introductory course on quantum mechanics, starting with the Stern-Gerlach experi
 
 [Download pdf (159 pages)](https://joaofmelo.github.io/files/A_Primer_on_Quantum_Mechanics.pdf)
 
-<details open>
+<details>
 <summary>Contents</summary>
 <ol type="1">
 <li>The puzzles with atomic theory</li>
@@ -37,16 +37,18 @@ Advanced course on quantum field theory, covering the path integral approach to 
 
 [Download pdf (97 pages)](https://joaofmelo.github.io/files/AQFT_Notes.pdf)
 
-<details open>
+<details>
 <summary>Contents</summary>
-1. Deriving the path integral
-2. Computing the path integral
-3. The fermionic path integral
-4. The Wilsonian renormalisation group
-5. Computing RG flows
-6. Connecting with observables: counterterms and infinities
-7. Global symmetries and their anomalies
-8. Abelian gauge theories
+<ol type="1">
+<li>Deriving the path integral</li>
+<li>Computing the path integral</li>
+<li>The fermionic path integral</li>
+<li>The Wilsonian renormalisation group</li>
+<li>Computing RG flows</li>
+<li>Connecting with observables: counterterms and infinities</li>
+<li>Global symmetries and their anomalies</li>
+<li>Abelian gauge theories</li>
+</ol>
 </details>
 
 ## Introduction to Renormalisation
@@ -55,9 +57,11 @@ Short introductory course on renormalisation in quantum field theory aimed at gr
 
 [View on arXiv](https://arxiv.org/abs/1909.11099)     [Download pdf (68 pages)](https://arxiv.org/pdf/1909.11099)  
 
-<details open>
+<details>
 <summary>Contents</summary>
-1. Path integrals in quantum mechanics
-2. The Wilsonian renormalisation group
-3. Counterterms and the continuum limit
+<ol type="1">
+<li>Path integrals in quantum mechanics</li>
+<li>The Wilsonian renormalisation group</li>
+<li>Counterterms and the continuum limit</li>
+</ol>
 </details>
