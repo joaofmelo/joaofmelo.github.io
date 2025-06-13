@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "João F. Melo"
 author_profile: true
 redirect_from: 
   - /about/
