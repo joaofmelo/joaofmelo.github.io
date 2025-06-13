@@ -10,8 +10,8 @@ Introductory course on quantum mechanics, starting with the Stern-Gerlach experi
 
 [Download pdf (159 pages)](https://joaofmelo.github.io/files/A_Primer_on_Quantum_Mechanics.pdf)
 
-Contents:
 <details open>
+<summary>Contents</summary>
 1. The puzzles with atomic theory
 2. Are electrons particles or waves?
 3. The Stern-Gerlach experiment
@@ -35,8 +35,8 @@ Advanced course on quantum field theory, covering the path integral approach to 
 
 [Download pdf (97 pages)](https://joaofmelo.github.io/files/AQFT_Notes.pdf)
 
-Contents:
 <details open>
+<summary>Contents</summary>
 1. Deriving the path integral
 2. Computing the path integral
 3. The fermionic path integral
@@ -53,8 +53,8 @@ Short introductory course on renormalisation in quantum field theory aimed at gr
 
 [View on arXiv](https://arxiv.org/abs/1909.11099)     [Download pdf (68 pages)](https://arxiv.org/pdf/1909.11099)  
 
-Contents
 <details open>
+<summary>Contents</summary>
 1. Path integrals in quantum mechanics
 2. The Wilsonian renormalisation group
 3. Counterterms and the continuum limit
