@@ -3,18 +3,9 @@ title: "EFT & species scale: friends or foes?"
 collection: publications
 category: manuscripts
 permalink: /publication/arXiv:2501.08230
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-01-28
-venue: 'Journal 1'
-paperurl: 'https://inspirehep.net/files/be01feb455a0c4cabf447a091a3f50ba'
-citation: '<!DOCTYPE html>
+'<!DOCTYPE html>
 <html>
 <body>
-  <p><b>
-    <a href="https://inspirehep.net/literature/2868926">
-      EFT & species scale: friends or foes?
-    </a>
-  </b></p>
   
     <p><a href="https://inspirehep.net/authors/1797181">Bruno Valeixo Bento</a> (<a href="https://inspirehep.net/institutions/910767">Madrid, IFT</a>), <a href="https://inspirehep.net/authors/1762166">João F. Melo</a> (<a href="https://inspirehep.net/institutions/902962">Leuven U.</a>)</p>
   
