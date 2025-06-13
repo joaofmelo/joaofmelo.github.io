@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +6,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Professional Experience
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2023-2025, *Postdoctoral researcher*, KU Leuven, Institute for Theoretical Physics
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Higher Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2023, *PhD in Applied Mathematics and Theoretical Physics*, University of Cambridge, DAMTP
+* 2017-2018, *MASt in Applied Mathematics*, Universtiy of Cambridge, 
+* 2014-2017, *Graduate in Engineering Sciences*, University of Lisbon, Instituto Superior Técnico
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Teaching Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025, *Summer Camp lecturer*, AstroCamp, 
+  * *Course*: Special Relativity, the Structure of Time and Space
+* 2024, *Master's thesis supervisor*, KU Leuven
+  * *Thesis title*: Field Theory in Curved Spacetime
+* 2024, *Bachelor's project supervisor*, KU Leuven
+  * *Project title*: Black Hole Thermodynamics
+* 2024, *Teaching Assistant*, KU Leuven
+  * *Course*: Statistical Mechanics
+* 2024, *Lecturer*, KU Leuven
+  * *Course*: Advanced Quantum Field Theory
+* 2019-2022, *Examples Classes Instructor*, University of Cambridge
+  * *Courses*: General Relativity, String Theory
+* 2019-2021, *Preparatory Workshops Instructor*, University of Cambridge
+  * *Courses*: General Relativity
