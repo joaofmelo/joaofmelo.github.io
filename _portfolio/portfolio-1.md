@@ -1,6 +1,7 @@
 ---
-title: "Lecture notes number 1"
-excerpt: "Short description of Lecture Notes number 1<br/><img src='/images/500x300.png'>"
+title: "Introduction to Renormalisation"
+excerpt: "These are introductory lecture notes aimed at beginning graduate students covering fundamental concepts and ideas behind the renormalisation group. Our main goal is to motivate it and then explore its consequences, in the context of quantum field theory. We shall reproduce the standard results without needing any mention of cancellation of infinities. To keep the story simple and compact, we'll ignore the role of symmetry in this game. We'll also restrict to scalar fields, and not mention neither fermions nor gauge fields. Moreover, we'll only briefly mention the connection with statistical field theory.
+"
 collection: portfolio
 ---
 
