@@ -16,7 +16,7 @@ redirect_from:
 
 * 2018-2023, **PhD in Applied Mathematics and Theoretical Physics**, University of Cambridge, DAMTP
 * 2017-2018, **MASt in Applied Mathematics**, Universtiy of Cambridge, 
-* 2014-2017, **Graduate in Engineering Sciences**, University of Lisbon, Instituto Superior Técnico
+* 2014-2017, **Graduate in Engineering Sciences - Engineering Physics**, University of Lisbon, Instituto Superior Técnico
 
 ## Teaching Experience
 
