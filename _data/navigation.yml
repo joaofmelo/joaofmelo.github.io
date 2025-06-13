@@ -9,7 +9,7 @@
 
 main:
   - title: "Lecture Notes"
-    url: /portfolio/
+    url: /lecture-notes/
     
   - title: "Publications"
     url: /publications/
