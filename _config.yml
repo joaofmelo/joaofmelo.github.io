@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "João F. Melo"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "João F. Melo"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "joaofmelo/joaofmelo.github.io"
 author:
   # Biographic information
   avatar           : "photo_scholars_report_sword.jpg"
-  name             : ""
+  name             : "João F. Melo"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Portugal"
