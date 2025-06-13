@@ -6,6 +6,8 @@ redirect_from:
   - /resume
 ---
 
+[Download pdf](https://joaofmelo.github.io/files/CV_Postdocs.pdf)
+
 ## Professional Experience
 
 * 2023-2025, *Postdoctoral researcher*, KU Leuven, Institute for Theoretical Physics
