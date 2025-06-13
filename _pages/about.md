@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Test test
+
 Test that I can edit the main page successfully.
 
 Plan for website:
