@@ -11,8 +11,8 @@ main:
   - title: "Lecture Notes"
     url: /lecture-notes/
     
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Outreach"
     url: /outreach/
