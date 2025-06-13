@@ -33,7 +33,7 @@ Introductory course on quantum mechanics, starting with the Stern-Gerlach experi
 
 ## Advanced Quantum Field Theory
 
-Advanced course on quantum field theory, covering the path integral approach to QFT and renormalisation. These were written to serve the similarly name course on the KU Leuven Master of Physics.
+Advanced course on quantum field theory, covering the path integral approach to QFT and renormalisation. These were written to serve the similarly named course on the KU Leuven Master of Physics.
 
 [Download pdf (97 pages)](https://joaofmelo.github.io/files/AQFT_Notes.pdf)
 
