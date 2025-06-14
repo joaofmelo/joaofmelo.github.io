@@ -15,15 +15,15 @@ redirect_from:
 ## Higher Education
 
 * 2018-2023, **PhD in Applied Mathematics and Theoretical Physics**, University of Cambridge, DAMTP
-* 2017-2018, **MASt in Applied Mathematics**, Universtiy of Cambridge, 
-* 2014-2017, **Graduate in Engineering Sciences - Engineering Physics**, University of Lisbon, Instituto Superior Técnico
+* 2017-2018, **MASt in Applied Mathematics**, University of Cambridge, 
+* 2014-2017, **Graduate in Engineering Sciences -- Engineering Physics**, University of Lisbon, Instituto Superior Técnico
 
 ## Teaching Experience
 
 * 2025, **Summer Camp lecturer**, AstroCamp, 
   * **Course**: Special Relativity, the Structure of Time and Space
 * 2024, **Master's thesis supervisor**, KU Leuven
-  * **Thesis title**: Field Theory in Curved Spacetime
+  * **Thesis title**: Quantum Field Theory in Curved Spacetime
 * 2024, **Bachelor's project supervisor**, KU Leuven
   * **Project title**: Black Hole Thermodynamics
 * 2024, **Teaching Assistant**, KU Leuven
