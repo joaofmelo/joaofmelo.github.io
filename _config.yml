@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/hep-th?searchtype=author&query=Melo,+J+F"
   googlescholar    : # URL
   inspirehep       : "https://inspirehep.net/authors/1762166"
   impactstory      : # URL
