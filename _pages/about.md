@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
-
-I am a theoretical physicist interested in Renormalisation and Quantum Field Theory.
+Hello! I am theoretical physicist with a love for teaching. My expertise is in renormalisation---the study of how physical theories are related at different length/energy scales. I am especially interested in examining the intersection between the quantum and the gravitational under the lenz of renormalisation.
