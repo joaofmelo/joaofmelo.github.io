@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "João F. Melo"
+title: "João Fragoso Melo"
 author_profile: true
 redirect_from: 
   - /about/
