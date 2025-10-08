@@ -8,7 +8,7 @@ author_profile: true
 
 Introductory course on quantum mechanics, starting with the Stern-Gerlach experiment to motivate quantum kinematics before moving to wave mechanics.
 
-[Download pdf (159 pages)](https://joaofmelo.github.io/files/A_Primer_on_Quantum_Mechanics.pdf)
+[Download pdf (162 pages)](https://joaofmelo.github.io/files/A_Primer_on_Quantum_Mechanics.pdf)
 
 <details>
 <summary>Contents</summary>
