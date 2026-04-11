@@ -10,6 +10,7 @@ redirect_from:
 
 ## Professional Experience
 
+* 2026-Present, **College Supervisor**, University of Cambridge
 * 2023-2025, **Postdoctoral researcher**, KU Leuven, Institute for Theoretical Physics
 
 ## Higher Education
@@ -20,6 +21,8 @@ redirect_from:
 
 ## Teaching Experience
 
+* 2026, **College Supervisor**, University of Cambridge
+  * **Courses**: Applications of Quantum Mechanics, Electromagnetism, Statistical Physics
 * 2025, **Summer Camp lecturer**, AstroCamp, 
   * **Course**: Special Relativity, the Structure of Time and Space
 * 2024, **Master's thesis supervisor**, KU Leuven
