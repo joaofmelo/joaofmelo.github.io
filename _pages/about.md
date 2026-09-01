@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am theoretical physicist with a love for teaching. I am from Sintra in Portugal (also known as the most beautiful place on Earth). I am currently a College Supervisor at the University of Cambridge, but I started out my journey studying Engineering Physics at IST, University of Lisbon. I went on to do my Master's and PhD in DAMTP, University of Cambridge; and I was also a Postdoc at ITF, KU Leuven.  You can find out details of my career journey [here](https://joaofmelo.github.io/cv). 
+Hello! I am theoretical physicist with a love for teaching. I am from Sintra in Portugal (also known as the most beautiful place on Earth). I am currently a Lecturer in Physics at Swansea University, but I started out my journey studying Engineering Physics at IST, University of Lisbon. I went on to do my Master's and PhD in DAMTP, University of Cambridge; and I was also a Postdoc at ITF, KU Leuven.  You can find out details of my career journey [here](https://joaofmelo.github.io/cv). 
 
 I love teaching Physics be it in a classroom at a university or to the general audience. I have written a number of pedagogical lecture notes [here](https://joaofmelo.github.io/lecture-notes). You can also find my popular science writing [here](https://joaofmelo.github.io/outreach) (beware, a lot of them are in Portuguese). 
 
